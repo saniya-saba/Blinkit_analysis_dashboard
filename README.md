@@ -1,5 +1,5 @@
 # Blinkit Sales Performance Analysis - Power BI Dashboard
-##DASHBOAD LINK : <iframe title="BLINKIT ANALYSIS" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=9005760f-17ef-49f2-9300-0f56292eaca4&autoAuth=true&ctid=c5b0dab3-42c5-47d2-95f4-3974df0f58a2" frameborder="0" allowFullScreen="true"></iframe>
+##DASHBOAD LINK : https://app.powerbi.com/reportEmbed?reportId=9005760f-17ef-49f2-9300-0f56292eaca4&autoAuth=true&ctid=c5b0dab3-42c5-47d2-95f4-3974df0f58a2
 ## Project Summary
 This Power BI dashboard delivers an in-depth analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution across various outlets. The primary objective is to uncover actionable insights and identify opportunities for optimization by leveraging key performance indicators (KPIs) and advanced data visualizations.
 
